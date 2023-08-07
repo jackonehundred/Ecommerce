@@ -1,0 +1,21 @@
+{
+  "protectFromDelete": true,
+  "accountExpiration": "indefinitely",
+  "passwordExpiration": "noExpiredPassword",
+  "savePasswordWithEncoding": true,
+  "encoding": "encodingKerberosDES",
+  "accountDelegation": true,
+  "noCheckKerberos": false,
+  "surname": "Кочарян",
+  "objectGuid": "05ef5ddb-5395-7946-b28e-7c9b4b42f16b",
+  "name": "Григорий",
+  "middleName": "Гайкович",
+  "fullName": "Григорий Гайкович Кочарян",
+  "userName": "groyreg",
+  "domain": "one",
+  "domainName": "garnengy",
+  "sAMAccountName": "some",
+  "userPassword": "12345",
+  "passwordConfirm": "12345",
+  "scriptPath": "one"
+}

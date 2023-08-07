@@ -1,0 +1,382 @@
+[
+  {
+    "name": "DnsUpdateProxy",
+    "cn": "DnsUpdateProxy",
+    "dn": "CN=DnsUpdateProxy,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["123213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["DnsUpdateProxy"]
+      }
+    ]
+  },
+  {
+    "name": "Group Policy Creator Owners",
+    "cn": "Group Policy Creator Owners",
+    "dn": "CN=Group Policy Creator Owners,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["1232144443213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Group Policy Creator Owners"]
+      }
+    ]
+  },
+  {
+    "name": "Enterprise Admins",
+    "cn": "Enterprise Admins",
+    "dn": "CN=Enterprise Admins,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["123343434213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Enterprise Admins"]
+      }
+    ]
+  },
+  {
+    "name": "krbtgt",
+    "cn": "krbtgt",
+    "dn": "CN=krbtgt,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "person", "organizationalPerson", "user"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["1eeeee23213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["krbtgt"]
+      }
+    ]
+  },
+  {
+    "name": "Cert Publishers",
+    "cn": "Cert Publishers",
+    "dn": "CN=Cert Publishers,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["12321rrrrrrr3213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Cert Publishers"]
+      }
+    ]
+  },
+  {
+    "name": "Allowed RODC Password Replication Group",
+    "cn": "Allowed RODC Password Replication Group",
+    "dn": "CN=Allowed RODC Password Replication Group,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["rrrrr123213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Allowed RODC Password Replication Group"]
+      }
+    ]
+  },
+  {
+    "name": "Domain Guests",
+    "cn": "Domain Guests",
+    "dn": "CN=Domain Guests,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["123rrrrrrr213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Domain Guests"]
+      }
+    ]
+  },
+  {
+    "name": "Schema Admins",
+    "cn": "Schema Admins",
+    "dn": "CN=Schema Admins,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["123rrrrrrr2144443213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Schema Admins"]
+      }
+    ]
+  },
+  {
+    "name": "Domain Admins",
+    "cn": "Domain Admins",
+    "dn": "CN=Domain Admins,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["1232rerererr13213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Domain Admins"]
+      }
+    ]
+  },
+  {
+    "name": "Domain Users",
+    "cn": "Domain Users",
+    "dn": "CN=Domain Users,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["1232132erererr13"]
+      },
+      {
+        "name": "cn",
+        "value": ["Domain Users"]
+      }
+    ]
+  },
+  {
+    "name": "Read-only Domain Controllers",
+    "cn": "Read-only Domain Controllers",
+    "dn": "CN=Read-only Domain Controllers,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["12ererer3213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Read-only Domain Controllers"]
+      }
+    ]
+  },
+  {
+    "name": "Denied RODC Password Replication Group",
+    "cn": "Denied RODC Password Replication Group",
+    "dn": "CN=Denied RODC Password Replication Group,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["123ererrer213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Denied RODC Password Replication Group"]
+      }
+    ]
+  },
+  {
+    "name": "Domain Computers",
+    "cn": "Domain Computers",
+    "dn": "CN=Domain Computers,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["1232ererere13213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Domain Computers"]
+      }
+    ]
+  },
+  {
+    "name": "Administrator",
+    "cn": "Administrator",
+    "dn": "CN=Administrator,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "person", "organizationalPerson", "user"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["12eerererrer3213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Administrator"]
+      }
+    ]
+  },
+  {
+    "name": "Users",
+    "cn": "Users",
+    "dn": "CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "container"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["123eerererr213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Users"]
+      }
+    ]
+  },
+  {
+    "name": "Guest",
+    "cn": "Guest",
+    "dn": "CN=Guest,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "person", "organizationalPerson", "user"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["1erererer3213213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Guest"]
+      }
+    ]
+  },
+  {
+    "name": "Domain Controllers",
+    "cn": "Domain Controllers",
+    "dn": "CN=Domain Controllers,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["12321rrrrr3213"]
+      },
+      {
+        "name": "cn",
+        "value": ["Domain Controllers"]
+      }
+    ]
+  },
+  {
+    "name": "123",
+    "cn": "123",
+    "dn": "CN=123,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "person", "organizationalPerson", "user"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["12321werer3213"]
+      },
+      {
+        "name": "cn",
+        "value": ["123"]
+      }
+    ]
+  },
+  {
+    "name": "RAS and IAS Servers",
+    "cn": "RAS and IAS Servers",
+    "dn": "CN=RAS and IAS Servers,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["12321rrrer3213"]
+      },
+      {
+        "name": "cn",
+        "value": ["RAS and IAS Servers"]
+      }
+    ]
+  },
+  {
+    "name": "DnsAdmins",
+    "cn": "DnsAdmins",
+    "dn": "CN=DnsAdmins,CN=Users,DC=inno,DC=tech",
+    "attributes": [
+      {
+        "name": "objectClass",
+        "value": ["top", "group"]
+      },
+      {
+        "name": "objectGUID",
+        "value": ["1232werewr13213"]
+      },
+      {
+        "name": "cn",
+        "value": ["DnsAdmins"]
+      }
+    ]
+  }
+]

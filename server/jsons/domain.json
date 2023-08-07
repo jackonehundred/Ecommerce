@@ -1,0 +1,40 @@
+{
+  "domain": {
+    "name": "inno.tech"
+  },
+  "directory_tree": {
+    "name": "Root DSE",
+    "dn": "DC=inno,DC=tech",
+    "children": [
+      {
+        "name": "ForeignSecurityPrincipals",
+        "cn": "ForeignSecurityPrincipals",
+        "dn": "CN=ForeignSecurityPrincipals,DC=inno,DC=tech"
+      },
+      {
+        "name": "OU=Domain Controllers,DC=inno,DC=tech",
+        "dn": "OU=Domain Controllers,DC=inno,DC=tech"
+      },
+      {
+        "name": "Managed Service Accounts",
+        "cn": "Managed Service Accounts",
+        "dn": "CN=Managed Service Accounts,DC=inno,DC=tech"
+      },
+      {
+        "name": "Builtin",
+        "cn": "Builtin",
+        "dn": "CN=Builtin,DC=inno,DC=tech"
+      },
+      {
+        "name": "Computers",
+        "cn": "Computers",
+        "dn": "CN=Computers,DC=inno,DC=tech"
+      },
+      {
+        "name": "Users",
+        "cn": "Users",
+        "dn": "CN=Users,DC=inno,DC=tech"
+      }
+    ]
+  }
+}
